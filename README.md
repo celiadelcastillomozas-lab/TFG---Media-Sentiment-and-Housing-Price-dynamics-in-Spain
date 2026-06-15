@@ -15,7 +15,7 @@ This online version contains the full analysis, visualizations, methodology, cod
 
 For readers interested in reproducing the analysis, modifying the code, or executing the project interactively, the original Jupyter Notebook is also available in this repository.
 
-📓 **Notebook file:** `TFG_Media_Sentimentv1.ipynb`
+📓 **Notebook file:** `TFG_Media_Sentiment_and_Housing_Price_Dynamics_in_Spain.ipynb`
 
 The notebook can be downloaded and opened directly in:
 
